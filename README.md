@@ -8,7 +8,7 @@ This project is on building a full-stack e-commerce website using the MERN stack
 
 ## Live Demo
 
-Check out the live demo of the project: [E-Commerce Website](https://ecommerce-lu5n1fvp5-pratiktechies-projects.vercel.app/)
+Check out the live demo of the project: [E-Commerce Website](https://e-commerce-taupe-three.vercel.app/)
 
 ![Screenshot of E-Commerce Website](./screenshot.png)
 
